@@ -124,9 +124,6 @@
 ***************   The c++ source code (DLOG_source.cpp) should be provided 	   ***************
 ***************   with the executable if anybody wishes to make modifications	   ***************
 
-***************   		Hopfully this is helpful...			   ***************
-***************    If you have questions my email is jakegraham@u.boisestate.edu   ***************
-
 **************************************************************************************************
 
 
