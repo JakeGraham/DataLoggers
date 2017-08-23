@@ -36,7 +36,7 @@
 ~~ 1: OGFormatCombined.txt
 	A .txt csv containing all of the logger files combined in the original format
 		column names:
-			"time" = seconds since 1969... which is the format they provide it in... I have no idea why...
+			"time" = UNIX time (seconds since 1970)
 			"bat" = battery life
 			"temp" = temperature in C
 			"DO" = DO in mg/L
